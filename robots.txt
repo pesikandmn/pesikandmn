@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://pesikandmn.github.io/pesikandmn/sitemap.xml
+Sitemap: https://pesikandmn.com/sitemap.xml

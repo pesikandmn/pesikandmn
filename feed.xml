@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Pesikandmn</title>
-    <link href="https://pesikandmn.github.io/pesikandmn/feed.xml" rel="self" />
-    <link href="https://pesikandmn.github.io/pesikandmn" />
+    <link href="https://pesikandmn.com/feed.xml" rel="self" />
+    <link href="https://pesikandmn.com" />
     <updated>2024-09-24T09:04:15+02:00</updated>
     <author>
         <name>pesikandmn ltd</name>
     </author>
-    <id>https://pesikandmn.github.io/pesikandmn</id>
+    <id>https://pesikandmn.com</id>
 
     <entry>
         <title>Privacy Policy</title>
         <author>
             <name>pesikandmn ltd</name>
         </author>
-        <link href="https://pesikandmn.github.io/pesikandmn/privacy-policy/"/>
-        <id>https://pesikandmn.github.io/pesikandmn/privacy-policy/</id>
+        <link href="https://pesikandmn.com/privacy-policy/"/>
+        <id>https://pesikandmn.com/privacy-policy/</id>
 
         <updated>2024-09-20T14:14:26+02:00</updated>
             <summary>
@@ -398,20 +398,20 @@
         <author>
             <name>pesikandmn ltd</name>
         </author>
-        <link href="https://pesikandmn.github.io/pesikandmn/croupier-mastery-app/"/>
-        <id>https://pesikandmn.github.io/pesikandmn/croupier-mastery-app/</id>
-        <media:content url="https://pesikandmn.github.io/pesikandmn/media/posts/4/CMLogo_512.png" medium="image" />
+        <link href="https://pesikandmn.com/croupier-mastery-app/"/>
+        <id>https://pesikandmn.com/croupier-mastery-app/</id>
+        <media:content url="https://pesikandmn.com/media/posts/4/CMLogo_512.png" medium="image" />
 
         <updated>2024-09-20T11:45:26+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pesikandmn.github.io/pesikandmn/media/posts/4/CMLogo_512.png" alt="" />
+                        <img src="https://pesikandmn.com/media/posts/4/CMLogo_512.png" alt="" />
                     lcsldjfasdjfa;sldftgdfgdfgg
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pesikandmn.github.io/pesikandmn/media/posts/4/CMLogo_512.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://pesikandmn.com/media/posts/4/CMLogo_512.png" class="type:primaryImage" alt="" /></p>
                 <p>lcsldjfasdjfa;sldftgdfgdfgg</p>
             ]]>
         </content>
@@ -421,8 +421,8 @@
         <author>
             <name>pesikandmn ltd</name>
         </author>
-        <link href="https://pesikandmn.github.io/pesikandmn/news/"/>
-        <id>https://pesikandmn.github.io/pesikandmn/news/</id>
+        <link href="https://pesikandmn.com/news/"/>
+        <id>https://pesikandmn.com/news/</id>
             <category term="Blog"/>
 
         <updated>2024-09-20T11:41:45+02:00</updated>
@@ -434,7 +434,7 @@
         <content type="html">
             <![CDATA[
                 <p>asdfas dfasdfasdfasdfasdfasdf</p>
-<figure class="post__image"><img loading="lazy"  src="https://pesikandmn.github.io/pesikandmn/media/posts/3/pesikandmn2.jpg" alt="" width="1024" height="1024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://pesikandmn.github.io/pesikandmn/media/posts/3/responsive/pesikandmn2-xs.jpg 300w ,https://pesikandmn.github.io/pesikandmn/media/posts/3/responsive/pesikandmn2-sm.jpg 480w ,https://pesikandmn.github.io/pesikandmn/media/posts/3/responsive/pesikandmn2-md.jpg 768w ,https://pesikandmn.github.io/pesikandmn/media/posts/3/responsive/pesikandmn2-lg.jpg 1024w ,https://pesikandmn.github.io/pesikandmn/media/posts/3/responsive/pesikandmn2-xl.jpg 1360w ,https://pesikandmn.github.io/pesikandmn/media/posts/3/responsive/pesikandmn2-2xl.jpg 1600w"><figcaption>Caption</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://pesikandmn.com/media/posts/3/pesikandmn2.jpg" alt="" width="1024" height="1024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://pesikandmn.com/media/posts/3/responsive/pesikandmn2-xs.jpg 300w ,https://pesikandmn.com/media/posts/3/responsive/pesikandmn2-sm.jpg 480w ,https://pesikandmn.com/media/posts/3/responsive/pesikandmn2-md.jpg 768w ,https://pesikandmn.com/media/posts/3/responsive/pesikandmn2-lg.jpg 1024w ,https://pesikandmn.com/media/posts/3/responsive/pesikandmn2-xl.jpg 1360w ,https://pesikandmn.com/media/posts/3/responsive/pesikandmn2-2xl.jpg 1600w"><figcaption>Caption</figcaption></figure>
 <p> </p>
             ]]>
         </content>
@@ -444,8 +444,8 @@
         <author>
             <name>pesikandmn ltd</name>
         </author>
-        <link href="https://pesikandmn.github.io/pesikandmn/contact/"/>
-        <id>https://pesikandmn.github.io/pesikandmn/contact/</id>
+        <link href="https://pesikandmn.com/contact/"/>
+        <id>https://pesikandmn.com/contact/</id>
 
         <updated>2024-09-20T11:39:25+02:00</updated>
             <summary>
@@ -464,20 +464,20 @@
         <author>
             <name>pesikandmn ltd</name>
         </author>
-        <link href="https://pesikandmn.github.io/pesikandmn/about/"/>
-        <id>https://pesikandmn.github.io/pesikandmn/about/</id>
-        <media:content url="https://pesikandmn.github.io/pesikandmn/media/posts/1/pesikandmn1-2.jpg" medium="image" />
+        <link href="https://pesikandmn.com/about/"/>
+        <id>https://pesikandmn.com/about/</id>
+        <media:content url="https://pesikandmn.com/media/posts/1/pesikandmn1-2.jpg" medium="image" />
 
         <updated>2024-09-20T11:26:25+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pesikandmn.github.io/pesikandmn/media/posts/1/pesikandmn1-2.jpg" alt="" />
+                        <img src="https://pesikandmn.com/media/posts/1/pesikandmn1-2.jpg" alt="" />
                     Transforming businesses We partner with forward-thinking brands, organizations, and founders that understand the value of technology. Together, we embrace change, envision new business&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pesikandmn.github.io/pesikandmn/media/posts/1/pesikandmn1-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://pesikandmn.com/media/posts/1/pesikandmn1-2.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="block-column" data-id="829c7414">
 <div class="wrapper wrapper--simple" data-id="1c926f63">
 <div class="wrapper__skip-dom">
@@ -487,7 +487,7 @@
 <h2 class="typography js-typography card-simple__heading" data-id="feb58a8e">Transforming<br>businesses</h2>
 </div>
 <p class="typography js-typography card-simple__paragraph" data-id="dc951fe6">We partner with forward-thinking brands, organizations, and founders that understand the value of technology. Together, we embrace change, envision new business models, and enhance existing practices to grow their business.</p>
-<figure class="post__image"><img loading="lazy"  src="https://pesikandmn.github.io/pesikandmn/media/posts/1/pesikandmn1.jpg" alt="" width="1024" height="1024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://pesikandmn.github.io/pesikandmn/media/posts/1/responsive/pesikandmn1-xs.jpg 300w ,https://pesikandmn.github.io/pesikandmn/media/posts/1/responsive/pesikandmn1-sm.jpg 480w ,https://pesikandmn.github.io/pesikandmn/media/posts/1/responsive/pesikandmn1-md.jpg 768w ,https://pesikandmn.github.io/pesikandmn/media/posts/1/responsive/pesikandmn1-lg.jpg 1024w ,https://pesikandmn.github.io/pesikandmn/media/posts/1/responsive/pesikandmn1-xl.jpg 1360w ,https://pesikandmn.github.io/pesikandmn/media/posts/1/responsive/pesikandmn1-2xl.jpg 1600w"><figcaption>Caption</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://pesikandmn.com/media/posts/1/pesikandmn1.jpg" alt="" width="1024" height="1024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://pesikandmn.com/media/posts/1/responsive/pesikandmn1-xs.jpg 300w ,https://pesikandmn.com/media/posts/1/responsive/pesikandmn1-sm.jpg 480w ,https://pesikandmn.com/media/posts/1/responsive/pesikandmn1-md.jpg 768w ,https://pesikandmn.com/media/posts/1/responsive/pesikandmn1-lg.jpg 1024w ,https://pesikandmn.com/media/posts/1/responsive/pesikandmn1-xl.jpg 1360w ,https://pesikandmn.com/media/posts/1/responsive/pesikandmn1-2xl.jpg 1600w"><figcaption>Caption</figcaption></figure>
 <p class="typography js-typography card-simple__paragraph" data-id="dc951fe6"> </p>
 </div>
 </div>
