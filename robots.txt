@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pesikandmn.github.io/pesikandmn/sitemap.xml

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://pesikandmn.github.io/pesikandmn/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://pesikandmn.github.io/pesikandmn/</loc>
+</url>
+<url>
+<loc>https://pesikandmn.github.io/pesikandmn/about/</loc>
+<lastmod>2024-09-20T11:27:12+02:00</lastmod>
+<image:image>
+<image:loc>https://pesikandmn.github.io/pesikandmn/media/posts/1/pesikandmn1-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://pesikandmn.github.io/pesikandmn/media/posts/1/pesikandmn1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pesikandmn.github.io/pesikandmn/contact/</loc>
+<lastmod>2024-09-20T11:39:25+02:00</lastmod>
+</url>
+<url>
+<loc>https://pesikandmn.github.io/pesikandmn/croupier-mastery-app/</loc>
+<lastmod>2024-09-20T11:51:12+02:00</lastmod>
+<image:image>
+<image:loc>https://pesikandmn.github.io/pesikandmn/media/posts/4/CMLogo_512.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pesikandmn.github.io/pesikandmn/news/</loc>
+<lastmod>2024-09-20T11:41:45+02:00</lastmod>
+<image:image>
+<image:loc>https://pesikandmn.github.io/pesikandmn/media/posts/3/pesikandmn2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://pesikandmn.github.io/pesikandmn/privacy-policy/</loc>
+<lastmod>2024-09-24T09:04:15+02:00</lastmod>
+</url>
+</urlset>
