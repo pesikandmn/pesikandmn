@@ -3,7 +3,7 @@
     <title>Pesikandmn</title>
     <link href="https://pesikandmn.com/feed.xml" rel="self" />
     <link href="https://pesikandmn.com" />
-    <updated>2024-09-25T16:43:06+02:00</updated>
+    <updated>2024-09-25T19:33:20+02:00</updated>
     <author>
         <name>pesikandmn ltd</name>
     </author>
@@ -450,12 +450,66 @@
         <updated>2024-09-20T11:39:25+02:00</updated>
             <summary>
                 <![CDATA[
-                    Subscribe
+                    Subscribe * indicates required First Name Last Name Phone Number Company Email Address * Marketing Permissions Please select all the ways you would&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="#non-existing-page-with-id-8">Subscribe</a></p>
+                <div id="mc_embed_shell">
+<div id="mc_embed_signup"><form class="validate" action="https://pesikandmn.us17.list-manage.com/subscribe/post?u=cec416b6a3a1d01fdfae2183a&amp;id=d1322bb425&amp;v_id=4582&amp;f_id=00b744e2f0" method="post" target="_blank">
+<div id="mc_embed_signup_scroll">
+<h2><span style="color: #236fa1;">Subscribe</span></h2>
+<div class="indicates-required"><span style="color: #236fa1;"><span class="asterisk">*</span> indicates required</span></div>
+<div class="mc-field-group"><span style="color: #236fa1;"><label for="mce-FNAME">First Name </label><input id="mce-FNAME" class=" text" name="FNAME" type="text" value=""></span></div>
+<div class="mc-field-group"><span style="color: #236fa1;"><label for="mce-LNAME">Last Name </label><input id="mce-LNAME" class=" text" name="LNAME" type="text" value=""></span></div>
+<div class="mc-field-group"><span style="color: #236fa1;"><label for="mce-PHONE">Phone Number </label><input id="mce-PHONE" class="REQ_CSS" name="PHONE" type="text" value=""></span></div>
+<div class="mc-field-group"><span style="color: #236fa1;"><label for="mce-COMPANY">Company </label><input id="mce-COMPANY" class=" text" name="COMPANY" type="text" value=""></span></div>
+<div class="mc-field-group"><span style="color: #236fa1;"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input id="mce-EMAIL" class="required email" name="EMAIL" required="" type="email" value=""></span></div>
+<div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+<div class="content__gdpr"><span style="color: #236fa1;"><label>Marketing Permissions</label></span>
+<p><span style="color: #236fa1;">Please select all the ways you would like to hear from Pesikandmn Ltd:</span></p>
+<fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field"><label class="checkbox subfield" for="gdpr220457"><input id="gdpr_220457" class="gdpr" name="gdpr[220457]" type="checkbox" value="Y">Email</label></fieldset>
+<p><span style="color: #236fa1;">You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.</span></p>
+</div>
+<div class="content__gdprLegal">
+<p><span style="color: #236fa1;">We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/terms" style="color: #236fa1;">Learn more</a> about Mailchimp's privacy practices.</span></p>
+</div>
+</div>
+<div id="mce-responses" class="clear foot">
+<div id="mce-error-response" class="response" style="display: none;"></div>
+<div id="mce-success-response" class="response" style="display: none;"></div>
+</div>
+<div style="position: absolute; left: -5000px;" aria-hidden="true">/* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ <input tabindex="-1" name="b_cec416b6a3a1d01fdfae2183a_d1322bb425" type="text" value=""></div>
+<div class="optionalParent">
+<div class="clear foot"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Subscribe">
+<figure class="refferal_badge"><a href="http://eepurl.com/iZ24fA" title="Mailchimp - email marketing made easy and fun"><span style="display: inline-block; background-color: transparent; border-radius: 4px;"><img loading="lazy"  style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" data-is-external-image="true"></figure></span></a></p>
+</div>
+</div>
+</div>
+</form></div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+<script type="text/javascript">
+		(function($) {
+			window.fnames = new Array();
+			window.ftypes = new Array();
+			fnames[1] = 'FNAME';
+			ftypes[1] = 'text';
+			fnames[2] = 'LNAME';
+			ftypes[2] = 'text';
+			fnames[4] = 'PHONE';
+			ftypes[4] = 'phone';
+			fnames[6] = 'COMPANY';
+			ftypes[6] = 'text';
+			fnames[0] = 'EMAIL';
+			ftypes[0] = 'email';
+			fnames[3] = 'ADDRESS';
+			ftypes[3] = 'address';
+			fnames[5] = 'BIRTHDAY';
+			ftypes[5] = 'birthday';
+		}(jQuery));
+		var $mcj = jQuery.noConflict(true);
+	</script>
+</div>
             ]]>
         </content>
     </entry>
