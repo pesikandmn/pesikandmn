@@ -3,7 +3,7 @@
     <title>Pesikandmn</title>
     <link href="https://pesikandmn.com/feed.xml" rel="self" />
     <link href="https://pesikandmn.com" />
-    <updated>2024-09-24T12:19:51+02:00</updated>
+    <updated>2024-09-25T16:43:06+02:00</updated>
     <author>
         <name>pesikandmn ltd</name>
     </author>
@@ -450,12 +450,12 @@
         <updated>2024-09-20T11:39:25+02:00</updated>
             <summary>
                 <![CDATA[
-                    alksdjflakjsdflkajsdflkjasdflkjd
+                    Subscribe
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>alksdjflakjsdflkajsdflkjasdflkjd</p>
+                <p><a href="#non-existing-page-with-id-8">Subscribe</a></p>
             ]]>
         </content>
     </entry>
